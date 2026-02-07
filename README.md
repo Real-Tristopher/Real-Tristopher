@@ -1,6 +1,6 @@
 # Web Dev Scholar; Game Dev Shaitan
 
-Currently developing on a combat system, that's also my bachelor's thesis, for a future game.
+Currently developing a combat system, that's also my bachelor's thesis, for a future game.
 
 ### Also got a Minecraft <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9a0c7182-5d39-4400-a149-538aa1517d20" /> mod in the works that's based on [Ancient Warfare 2](https://github.com/P3pp3rF1y/AncientWarfare2), but that's currently on hold.
 
