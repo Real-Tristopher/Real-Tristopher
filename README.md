@@ -1,6 +1,6 @@
 # Web Dev Scholar; Game Dev Shaitan
 
-Looks like Github just updated its markup throwing every image I've got into its own row 😂 I'll update this later if they don't eventually fix it.
+## Looks like Github just updated its markup throwing every image I've got into its own row 😂 I'll update this later if they don't eventually fix it.
 
 Currently developing a combat system, that's also my bachelor's thesis, for a future game.
 
